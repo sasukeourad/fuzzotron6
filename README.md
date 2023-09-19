@@ -1,4 +1,8 @@
-# Fuzzotron
+# Fuzzotron6
+
+> I've forked this repo from "https://github.com/denandz/fuzzotron" and ruined a perfect fork numbers. Sorry about that :)
+> The only difference is that this fork supports IPv6. The rest is the same.
+
 
 Fuzzotron is a simple network fuzzer supporting TCP, UDP and multithreading. Radamsa and Blab are used for test case generation. Fuzzotron exists as a first-port-of-call network fuzzer, aiming for low setup overhead.
 
